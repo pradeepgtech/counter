@@ -1,0 +1,42 @@
+body{
+  text-align: center;
+  border-top:20px;
+  font-size: 50px;
+}
+#incrementbtn{
+  font-size: 20px;
+  border-radius: 5px;
+  background-color: brown;
+  color: aliceblue;
+  border-color: rgb(4, 4, 154);
+}
+#resetbtn{
+  font-size: 20px;
+  border-radius: 5px;
+  background-color: brown;
+  color: aliceblue;
+  border-color: rgb(4, 4, 154);
+}
+#decrementbtn{
+  font-size: 20px;
+  border-radius: 5px;
+  background-color: brown;
+  color: aliceblue;
+  border-color: rgb(4, 4, 154);
+}
+#incrementbtn:hover{
+  background-color: rgb(88, 8, 227);
+
+}
+#resetbtn:hover{
+  background-color:red;
+
+}
+#decrementbtn:hover{
+  background-color: rgb(88, 8, 227);
+
+}
+h1{
+  font-size: 80px;
+  
+}
